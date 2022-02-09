@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>李一鸣专属网站</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-02-09T07:42:58.873Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>李一鸣</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>摸鱼网站</title>
+    <link href="http://example.com/2022/02/09/%E6%91%B8%E9%B1%BC%E7%BD%91%E7%AB%99/"/>
+    <id>http://example.com/2022/02/09/%E6%91%B8%E9%B1%BC%E7%BD%91%E7%AB%99/</id>
+    <published>2022-02-09T07:42:58.000Z</published>
+    <updated>2022-02-09T07:42:58.873Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
