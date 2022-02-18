@@ -6,7 +6,7 @@
   <link href="http://nayo414.github.io/atom.xml" rel="self"/>
   
   <link href="http://nayo414.github.io/"/>
-  <updated>2022-02-09T08:26:43.185Z</updated>
+  <updated>2022-02-18T07:09:16.054Z</updated>
   <id>http://nayo414.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为什么不能使用BigDecimal的equals方法做等值比较</title>
+    <link href="http://nayo414.github.io/2022/02/18/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E4%BD%BF%E7%94%A8BigDecimal%E7%9A%84equals%E6%96%B9%E6%B3%95%E5%81%9A%E7%AD%89%E5%80%BC%E6%AF%94%E8%BE%83/"/>
+    <id>http://nayo414.github.io/2022/02/18/%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E4%BD%BF%E7%94%A8BigDecimal%E7%9A%84equals%E6%96%B9%E6%B3%95%E5%81%9A%E7%AD%89%E5%80%BC%E6%AF%94%E8%BE%83/</id>
+    <published>2022-02-18T07:09:16.000Z</published>
+    <updated>2022-02-18T07:09:16.054Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>摸鱼网站</title>
